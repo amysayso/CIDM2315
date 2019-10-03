@@ -1,0 +1,7 @@
+U:\CIDM 2315\QuestionFour\QuestionFour\bin\Debug\QuestionFour.exe.config
+U:\CIDM 2315\QuestionFour\QuestionFour\bin\Debug\QuestionFour.exe
+U:\CIDM 2315\QuestionFour\QuestionFour\bin\Debug\QuestionFour.pdb
+U:\CIDM 2315\QuestionFour\QuestionFour\obj\Debug\QuestionFour.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\QuestionFour\QuestionFour\obj\Debug\QuestionFour.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\QuestionFour\QuestionFour\obj\Debug\QuestionFour.exe
+U:\CIDM 2315\QuestionFour\QuestionFour\obj\Debug\QuestionFour.pdb

@@ -1,0 +1,7 @@
+U:\CIDM 2315\SentinalLoopDemo\SentinalLoopDemo\obj\Debug\SentinalLoopDemo.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\SentinalLoopDemo\SentinalLoopDemo\obj\Debug\SentinalLoopDemo.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\SentinalLoopDemo\SentinalLoopDemo\bin\Debug\SentinalLoopDemo.exe.config
+U:\CIDM 2315\SentinalLoopDemo\SentinalLoopDemo\bin\Debug\SentinalLoopDemo.exe
+U:\CIDM 2315\SentinalLoopDemo\SentinalLoopDemo\bin\Debug\SentinalLoopDemo.pdb
+U:\CIDM 2315\SentinalLoopDemo\SentinalLoopDemo\obj\Debug\SentinalLoopDemo.exe
+U:\CIDM 2315\SentinalLoopDemo\SentinalLoopDemo\obj\Debug\SentinalLoopDemo.pdb

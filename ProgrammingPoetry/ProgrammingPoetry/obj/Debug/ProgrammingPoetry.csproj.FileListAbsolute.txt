@@ -1,0 +1,7 @@
+U:\CIDM 2315\ProgrammingPoetry\ProgrammingPoetry\obj\Debug\ProgrammingPoetry.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\ProgrammingPoetry\ProgrammingPoetry\obj\Debug\ProgrammingPoetry.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\ProgrammingPoetry\ProgrammingPoetry\bin\Debug\ProgrammingPoetry.exe.config
+U:\CIDM 2315\ProgrammingPoetry\ProgrammingPoetry\bin\Debug\ProgrammingPoetry.exe
+U:\CIDM 2315\ProgrammingPoetry\ProgrammingPoetry\bin\Debug\ProgrammingPoetry.pdb
+U:\CIDM 2315\ProgrammingPoetry\ProgrammingPoetry\obj\Debug\ProgrammingPoetry.exe
+U:\CIDM 2315\ProgrammingPoetry\ProgrammingPoetry\obj\Debug\ProgrammingPoetry.pdb
