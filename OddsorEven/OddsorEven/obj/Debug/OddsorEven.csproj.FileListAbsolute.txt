@@ -1,0 +1,7 @@
+U:\CIDM 2315\OddsorEven\OddsorEven\bin\Debug\OddsorEven.exe.config
+U:\CIDM 2315\OddsorEven\OddsorEven\bin\Debug\OddsorEven.exe
+U:\CIDM 2315\OddsorEven\OddsorEven\bin\Debug\OddsorEven.pdb
+U:\CIDM 2315\OddsorEven\OddsorEven\obj\Debug\OddsorEven.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\OddsorEven\OddsorEven\obj\Debug\OddsorEven.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\OddsorEven\OddsorEven\obj\Debug\OddsorEven.exe
+U:\CIDM 2315\OddsorEven\OddsorEven\obj\Debug\OddsorEven.pdb

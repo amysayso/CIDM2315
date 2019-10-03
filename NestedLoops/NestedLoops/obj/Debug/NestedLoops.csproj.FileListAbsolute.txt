@@ -1,0 +1,7 @@
+U:\CIDM 2315\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe.config
+U:\CIDM 2315\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe
+U:\CIDM 2315\NestedLoops\NestedLoops\bin\Debug\NestedLoops.pdb
+U:\CIDM 2315\NestedLoops\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\NestedLoops\NestedLoops\obj\Debug\NestedLoops.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\NestedLoops\NestedLoops\obj\Debug\NestedLoops.exe
+U:\CIDM 2315\NestedLoops\NestedLoops\obj\Debug\NestedLoops.pdb

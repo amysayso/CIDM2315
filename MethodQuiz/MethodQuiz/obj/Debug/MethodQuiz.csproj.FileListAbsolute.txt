@@ -1,0 +1,7 @@
+U:\CIDM 2315\MethodQuiz\MethodQuiz\bin\Debug\MethodQuiz.exe.config
+U:\CIDM 2315\MethodQuiz\MethodQuiz\bin\Debug\MethodQuiz.exe
+U:\CIDM 2315\MethodQuiz\MethodQuiz\bin\Debug\MethodQuiz.pdb
+U:\CIDM 2315\MethodQuiz\MethodQuiz\obj\Debug\MethodQuiz.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\MethodQuiz\MethodQuiz\obj\Debug\MethodQuiz.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\MethodQuiz\MethodQuiz\obj\Debug\MethodQuiz.exe
+U:\CIDM 2315\MethodQuiz\MethodQuiz\obj\Debug\MethodQuiz.pdb

@@ -1,0 +1,7 @@
+U:\CIDM 2315\Multiples\Multiples\bin\Debug\Multiples.exe.config
+U:\CIDM 2315\Multiples\Multiples\bin\Debug\Multiples.exe
+U:\CIDM 2315\Multiples\Multiples\bin\Debug\Multiples.pdb
+U:\CIDM 2315\Multiples\Multiples\obj\Debug\Multiples.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\Multiples\Multiples\obj\Debug\Multiples.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\Multiples\Multiples\obj\Debug\Multiples.exe
+U:\CIDM 2315\Multiples\Multiples\obj\Debug\Multiples.pdb

@@ -1,0 +1,7 @@
+U:\CIDM 2315\NegPosZero\NegPosZero\obj\Debug\NegPosZero.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\NegPosZero\NegPosZero\bin\Debug\NegPosZero.exe.config
+U:\CIDM 2315\NegPosZero\NegPosZero\bin\Debug\NegPosZero.exe
+U:\CIDM 2315\NegPosZero\NegPosZero\bin\Debug\NegPosZero.pdb
+U:\CIDM 2315\NegPosZero\NegPosZero\obj\Debug\NegPosZero.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\NegPosZero\NegPosZero\obj\Debug\NegPosZero.exe
+U:\CIDM 2315\NegPosZero\NegPosZero\obj\Debug\NegPosZero.pdb
