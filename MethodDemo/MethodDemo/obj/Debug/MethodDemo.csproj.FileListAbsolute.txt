@@ -1,0 +1,7 @@
+U:\CIDM 2315\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe.config
+U:\CIDM 2315\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe
+U:\CIDM 2315\MethodDemo\MethodDemo\bin\Debug\MethodDemo.pdb
+U:\CIDM 2315\MethodDemo\MethodDemo\obj\Debug\MethodDemo.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\MethodDemo\MethodDemo\obj\Debug\MethodDemo.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\MethodDemo\MethodDemo\obj\Debug\MethodDemo.exe
+U:\CIDM 2315\MethodDemo\MethodDemo\obj\Debug\MethodDemo.pdb

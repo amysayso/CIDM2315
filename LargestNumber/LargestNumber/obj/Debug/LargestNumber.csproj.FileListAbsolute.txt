@@ -1,0 +1,7 @@
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestNumber\LargestNumber\bin\Debug\LargestNumber.exe.config
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestNumber\LargestNumber\bin\Debug\LargestNumber.exe
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestNumber\LargestNumber\bin\Debug\LargestNumber.pdb
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestNumber\LargestNumber\obj\Debug\LargestNumber.csprojResolveAssemblyReference.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestNumber\LargestNumber\obj\Debug\LargestNumber.csproj.CoreCompileInputs.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestNumber\LargestNumber\obj\Debug\LargestNumber.exe
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestNumber\LargestNumber\obj\Debug\LargestNumber.pdb

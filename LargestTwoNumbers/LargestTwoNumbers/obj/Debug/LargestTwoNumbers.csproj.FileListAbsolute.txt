@@ -1,0 +1,7 @@
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestTwoNumbers\LargestTwoNumbers\obj\Debug\LargestTwoNumbers.csprojResolveAssemblyReference.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestTwoNumbers\LargestTwoNumbers\obj\Debug\LargestTwoNumbers.csproj.CoreCompileInputs.cache
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestTwoNumbers\LargestTwoNumbers\bin\Debug\LargestTwoNumbers.exe.config
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestTwoNumbers\LargestTwoNumbers\bin\Debug\LargestTwoNumbers.exe
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestTwoNumbers\LargestTwoNumbers\bin\Debug\LargestTwoNumbers.pdb
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestTwoNumbers\LargestTwoNumbers\obj\Debug\LargestTwoNumbers.exe
+\\stfiles.wtstudents.wtamu.edu\users\students\STVS1SG1DB1\986860\CIDM 2315\LargestTwoNumbers\LargestTwoNumbers\obj\Debug\LargestTwoNumbers.pdb

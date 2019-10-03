@@ -1,0 +1,7 @@
+U:\CIDM 2315\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.exe.config
+U:\CIDM 2315\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.exe
+U:\CIDM 2315\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.pdb
+U:\CIDM 2315\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.exe
+U:\CIDM 2315\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.pdb
