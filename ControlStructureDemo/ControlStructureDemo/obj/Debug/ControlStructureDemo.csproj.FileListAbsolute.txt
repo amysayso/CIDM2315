@@ -1,0 +1,7 @@
+U:\CIDM 2315\ControlStructureDemo\ControlStructureDemo\bin\Debug\ControlStructureDemo.exe.config
+U:\CIDM 2315\ControlStructureDemo\ControlStructureDemo\bin\Debug\ControlStructureDemo.exe
+U:\CIDM 2315\ControlStructureDemo\ControlStructureDemo\bin\Debug\ControlStructureDemo.pdb
+U:\CIDM 2315\ControlStructureDemo\ControlStructureDemo\obj\Debug\ControlStructureDemo.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\ControlStructureDemo\ControlStructureDemo\obj\Debug\ControlStructureDemo.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\ControlStructureDemo\ControlStructureDemo\obj\Debug\ControlStructureDemo.exe
+U:\CIDM 2315\ControlStructureDemo\ControlStructureDemo\obj\Debug\ControlStructureDemo.pdb

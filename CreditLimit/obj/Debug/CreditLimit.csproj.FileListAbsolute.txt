@@ -1,0 +1,7 @@
+U:\CIDM 2315\CreditLimit\obj\Debug\CreditLimit.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\CreditLimit\obj\Debug\CreditLimit.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\CreditLimit\bin\Debug\CreditLimit.exe.config
+U:\CIDM 2315\CreditLimit\bin\Debug\CreditLimit.exe
+U:\CIDM 2315\CreditLimit\bin\Debug\CreditLimit.pdb
+U:\CIDM 2315\CreditLimit\obj\Debug\CreditLimit.exe
+U:\CIDM 2315\CreditLimit\obj\Debug\CreditLimit.pdb

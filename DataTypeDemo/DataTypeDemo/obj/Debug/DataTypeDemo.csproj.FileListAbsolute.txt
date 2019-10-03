@@ -1,0 +1,7 @@
+U:\CIDM 2315\DataTypeDemo\DataTypeDemo\bin\Debug\DataTypeDemo.exe.config
+U:\CIDM 2315\DataTypeDemo\DataTypeDemo\bin\Debug\DataTypeDemo.exe
+U:\CIDM 2315\DataTypeDemo\DataTypeDemo\bin\Debug\DataTypeDemo.pdb
+U:\CIDM 2315\DataTypeDemo\DataTypeDemo\obj\Debug\DataTypeDemo.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\DataTypeDemo\DataTypeDemo\obj\Debug\DataTypeDemo.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\DataTypeDemo\DataTypeDemo\obj\Debug\DataTypeDemo.exe
+U:\CIDM 2315\DataTypeDemo\DataTypeDemo\obj\Debug\DataTypeDemo.pdb
