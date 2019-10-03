@@ -1,0 +1,7 @@
+U:\CIDM 2315\TernaryDemo\TernaryDemo\bin\Debug\TernaryDemo.exe.config
+U:\CIDM 2315\TernaryDemo\TernaryDemo\bin\Debug\TernaryDemo.exe
+U:\CIDM 2315\TernaryDemo\TernaryDemo\bin\Debug\TernaryDemo.pdb
+U:\CIDM 2315\TernaryDemo\TernaryDemo\obj\Debug\TernaryDemo.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\TernaryDemo\TernaryDemo\obj\Debug\TernaryDemo.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\TernaryDemo\TernaryDemo\obj\Debug\TernaryDemo.exe
+U:\CIDM 2315\TernaryDemo\TernaryDemo\obj\Debug\TernaryDemo.pdb

@@ -1,0 +1,7 @@
+U:\CIDM 2315\ValidatingUserInput\ValidatingUserInput\bin\Debug\ValidatingUserInput.exe.config
+U:\CIDM 2315\ValidatingUserInput\ValidatingUserInput\bin\Debug\ValidatingUserInput.exe
+U:\CIDM 2315\ValidatingUserInput\ValidatingUserInput\bin\Debug\ValidatingUserInput.pdb
+U:\CIDM 2315\ValidatingUserInput\ValidatingUserInput\obj\Debug\ValidatingUserInput.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\ValidatingUserInput\ValidatingUserInput\obj\Debug\ValidatingUserInput.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\ValidatingUserInput\ValidatingUserInput\obj\Debug\ValidatingUserInput.exe
+U:\CIDM 2315\ValidatingUserInput\ValidatingUserInput\obj\Debug\ValidatingUserInput.pdb

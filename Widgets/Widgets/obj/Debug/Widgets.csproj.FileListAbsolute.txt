@@ -1,0 +1,7 @@
+U:\CIDM 2315\Widgets\Widgets\bin\Debug\Widgets.exe.config
+U:\CIDM 2315\Widgets\Widgets\bin\Debug\Widgets.exe
+U:\CIDM 2315\Widgets\Widgets\bin\Debug\Widgets.pdb
+U:\CIDM 2315\Widgets\Widgets\obj\Debug\Widgets.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\Widgets\Widgets\obj\Debug\Widgets.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\Widgets\Widgets\obj\Debug\Widgets.exe
+U:\CIDM 2315\Widgets\Widgets\obj\Debug\Widgets.pdb
