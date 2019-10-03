@@ -1,0 +1,6 @@
+U:\CIDM 2315\InClass_4\InClass_4\bin\Debug\InClass_4.exe.config
+U:\CIDM 2315\InClass_4\InClass_4\bin\Debug\InClass_4.exe
+U:\CIDM 2315\InClass_4\InClass_4\bin\Debug\InClass_4.pdb
+U:\CIDM 2315\InClass_4\InClass_4\obj\Debug\InClass_4.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\InClass_4\InClass_4\obj\Debug\InClass_4.exe
+U:\CIDM 2315\InClass_4\InClass_4\obj\Debug\InClass_4.pdb

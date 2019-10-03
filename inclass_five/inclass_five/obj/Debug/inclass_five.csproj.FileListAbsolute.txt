@@ -1,0 +1,7 @@
+U:\CIDM 2315\inclass_five\inclass_five\bin\Debug\inclass_five.exe.config
+U:\CIDM 2315\inclass_five\inclass_five\bin\Debug\inclass_five.exe
+U:\CIDM 2315\inclass_five\inclass_five\bin\Debug\inclass_five.pdb
+U:\CIDM 2315\inclass_five\inclass_five\obj\Debug\inclass_five.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\inclass_five\inclass_five\obj\Debug\inclass_five.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\inclass_five\inclass_five\obj\Debug\inclass_five.exe
+U:\CIDM 2315\inclass_five\inclass_five\obj\Debug\inclass_five.pdb

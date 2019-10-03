@@ -1,0 +1,7 @@
+U:\CIDM 2315\GasMileage\GasMileage\bin\Debug\GasMileage.exe.config
+U:\CIDM 2315\GasMileage\GasMileage\bin\Debug\GasMileage.exe
+U:\CIDM 2315\GasMileage\GasMileage\bin\Debug\GasMileage.pdb
+U:\CIDM 2315\GasMileage\GasMileage\obj\Debug\GasMileage.csprojResolveAssemblyReference.cache
+U:\CIDM 2315\GasMileage\GasMileage\obj\Debug\GasMileage.csproj.CoreCompileInputs.cache
+U:\CIDM 2315\GasMileage\GasMileage\obj\Debug\GasMileage.exe
+U:\CIDM 2315\GasMileage\GasMileage\obj\Debug\GasMileage.pdb
